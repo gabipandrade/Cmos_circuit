@@ -27,10 +27,10 @@ The circuit was modeled and simulated in LTspice, allowing for detailed analysis
 
 ## Contributors
 
-- **Felipe Aparecido da Silva** (11954502) - [GitHub](https://github.com/gabipandrade)  
-- **Gabriela Passos de Andrade** (12625142) - [GitHub](https://github.com/FehASilva)  
-- **Rafael Cunha Bejes Learth** (13676367) - [GitHub](https://github.com/RafaelLearth)  
-- **Vitor Augusto Paiva de Brito** (13732303) - [GitHub](https://github.com/vtpaiva)  
+- **Felipe Aparecido da Silva**  - [GitHub](https://github.com/gabipandrade)  
+- **Gabriela Passos de Andrade**  - [GitHub](https://github.com/FehASilva)  
+- **Rafael Cunha Bejes Learth** - [GitHub](https://github.com/RafaelLearth)  
+- **Vitor Augusto Paiva de Brito**  - [GitHub](https://github.com/vtpaiva)  
 
 ## Conclusion
 
