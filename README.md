@@ -25,6 +25,13 @@ The use of CMOS (Complementary Metal-Oxide-Semiconductor) technology in this des
 
 The circuit was modeled and simulated in LTspice, allowing for detailed analysis of its behavior under various input conditions. The simulation results validate the design, demonstrating correct functionality in accordance with the theoretical operation of a JK Flip-Flop. The dynamic response of the circuit, including set, reset, and toggle operations, was observed and confirmed.
 
+## Contributors
+
+- **Felipe Aparecido da Silva** (11954502) - [GitHub](https://github.com/gabipandrade)  
+- **Gabriela Passos de Andrade** (12625142) - [GitHub](https://github.com/FehASilva)  
+- **Rafael Cunha Bejes Learth** (13676367) - [GitHub](https://github.com/RafaelLearth)  
+- **Vitor Augusto Paiva de Brito** (13732303) - [GitHub](https://github.com/vtpaiva)  
+
 ## Conclusion
 
 This LTspice simulation successfully demonstrates the operation of a CMOS-based JK Flip-Flop. The design not only meets the theoretical expectations but also highlights the efficiency and reliability of CMOS technology in digital circuit applications.
